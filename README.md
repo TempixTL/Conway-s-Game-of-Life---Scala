@@ -5,7 +5,7 @@ This is code for a simple implementation of [Conway's Game of Life][conway wiki]
 * [Scala][scala webpage]
 * [ScalaFX][scalafx webpage]
 
-To compile and run the program, simply type `scala -cp [path/to/scalafx.jar] GameOfLife.scala` into your command line.
+To compile and run the program, simply type `scala -cp path/to/scalafx.jar GameOfLife.scala` into your command line.
 
 ###### This code was created by me during my enrollement in Mark Lewis' "Principles of Computer Science I" class at Trinity University in 2017. It is one of my first Scala programs, please show me mercy.
 
